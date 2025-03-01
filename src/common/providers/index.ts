@@ -3,6 +3,7 @@ export * from "./codeActionProvider";
 export * from "./codeLensProvider";
 export * from "./completionProvider";
 export * from "./definitionProvider";
+export * from "./typeDefinitionProvider";
 export * from "./diagnostics/diagnosticsProvider";
 export * from "./diagnostics/elmMakeDiagnostics";
 export * from "./diagnostics/elmReviewDiagnostics";
