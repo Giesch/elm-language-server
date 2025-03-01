@@ -17,7 +17,7 @@ class MockTypeDefinitionProvider extends TypeDefinitionProvider {
   }
 }
 
-export class DefinitionProviderTestBase {
+export class TypeDefinitionProviderTestBase {
   private typeDefinitionProvider: MockTypeDefinitionProvider;
   private treeParser: SourceTreeParser;
   constructor() {
